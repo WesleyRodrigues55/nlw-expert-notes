@@ -1,4 +1,3 @@
-"# nlw-expert-notes" 
 deploy: [https://nlw-expert-notes-lemon.vercel.app/](https://nlw-expert-notes-lemon.vercel.app/)
 
 ## O que é o projeto?
